@@ -45,7 +45,7 @@ def can_make_balanced(code):
 
     return False
 
-# Press the green button in the gutter to run the script.
+
 if __name__ == '__main__':
     code1 = "arghh"
     code2 = "haha"
